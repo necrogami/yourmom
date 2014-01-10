@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <common>
+        <nickname>enzu-mom</nickname>
+        <username>yourmom@mars.c4.io</username>
+        <prefix>!</prefix>
+    </common>
+    <server>
+        <hostname>irc.freenode.net</hostname>
+        <port>6667</port>
+    </server>
+    <nickserv>
+        <username></username>
+        <password></password>
+    </nickserv>
+</config>
